@@ -6,7 +6,7 @@ $(document).ready(function() {
     });
 
     var typed = new Typed(".typed", {
-        strings: ["Front-End Wed Developer", "Software Engineer", "Sales Master", "Mentor", "Web Developer"],
+        strings: ["Front-End Developer", "Software Engineer", "Sales Master", "Mentor", "Web Developer", "Entrepreneur"],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
