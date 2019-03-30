@@ -9,6 +9,7 @@ I wanted to create a responsive website from scratch using HTML, CSS, JavaScript
 - To demonstrate that I am able to create a responsive website
 - Also, that I am able to implement third party tools
 - Implemented [SuperSlides](https://github.com/nicinabox/superslides) to showcase full screen sliders
+- Used [Typed.js](https://github.com/mattboldt/typed.js/) for the plugin to give a typing effect
 
 ## Images
 
