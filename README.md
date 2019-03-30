@@ -14,7 +14,7 @@ I wanted to create a responsive website from scratch using HTML, CSS, JavaScript
 
 Pulled from Unsplash.  Give credit to the following photographers
 
-- Carl Heyerdahl
+- Christin Hume
 - Joshua Earle
 - Nicolas Gras
 - James McKinven  
