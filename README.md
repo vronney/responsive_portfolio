@@ -10,4 +10,12 @@ I wanted to create a responsive website from scratch using HTML, CSS, JavaScript
 - Also, that I am able to implement third party tools
 - Implemented [SuperSlides](https://github.com/nicinabox/superslides) to showcase full screen sliders
 
+## Images
+
+Pulled from Unsplash.  Give credit to the following photographers
+
+- Carl Heyerdahl
+- Joshua Earle
+- Nicolas Gras  
+
 ## [Click Here To Demo](https://vronney.github.io/responsive_portfolio/)
