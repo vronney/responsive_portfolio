@@ -16,6 +16,7 @@ Pulled from Unsplash.  Give credit to the following photographers
 
 - Carl Heyerdahl
 - Joshua Earle
-- Nicolas Gras  
+- Nicolas Gras
+- James McKinven  
 
 ## [Click Here To Demo](https://vronney.github.io/responsive_portfolio/)
