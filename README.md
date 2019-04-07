@@ -10,6 +10,7 @@ I wanted to create a responsive website from scratch using HTML, CSS, JavaScript
 - Also, that I am able to implement third party tools
 - Implemented [SuperSlides](https://github.com/nicinabox/superslides) to showcase full screen sliders
 - Used [Typed.js](https://github.com/mattboldt/typed.js/) for the plugin to give a typing effect
+- Used [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) for the plugin to give the skills section the scrolling effect and filling-in effect
 
 ## Images
 
