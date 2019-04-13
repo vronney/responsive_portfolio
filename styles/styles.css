@@ -153,6 +153,11 @@ body {
 
 .squareIcon {
     position: absolute;
-    justify-items: center;
-    top: 0;
+    left: 50%;
+    top: -30px;
+    width: 40%;
+    height: 60px;
+    font-size: 45px;
+    margin-left: -20%;
+    color: #444444;
 }
