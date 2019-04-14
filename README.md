@@ -12,6 +12,7 @@ I wanted to create a responsive website from scratch using HTML, CSS, JavaScript
 - Used [Typed.js](https://github.com/mattboldt/typed.js/) for the plugin to give a typing effect
 - Used [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) for the plugin to give the skills section the scrolling effect and filling-in effect
 - Also used [CountUp.js](https://github.com/inorganik/CountUp.js) for the counting up effect when a user scrolls to a set section
+- Used [Isotope](https://isotope.metafizzy.co/) to filter through my portfolio
 
 ## Images
 
