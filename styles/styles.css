@@ -206,3 +206,71 @@ body {
     padding-bottom: 40px;
     width: 100%;
 }
+
+.itemsContainer {
+    width: 100%;
+}
+
+.items li {
+    display: inline-block;
+    padding: 15px;
+}
+
+.items li img {
+    width: 100%;
+}
+
+.items .item {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.items .icons {
+    position: absolute;
+    width: 90px;
+    height: 40px;
+    left: 50%;
+    top: 50%;
+    margin: -20px auto 0 -47px;
+    text-align: center;
+    z-index: 3;
+}
+
+.items .icons i {
+    color: #ffffff;
+    font-size: 20px;
+    margin-top: 9px;
+}
+
+.items a {
+    width: 40px;
+    height: 40px;
+    background-color: #e74c3c;
+    position: relative;
+    display: inline-block;
+}
+
+.items .imageOverLay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    opacity: 0;
+    
+    -webkit-transition: all 0.2s linear, 1s;
+    -moz-transition: all 0.2s linear,
+    1s;
+    -o-transition: all 0.2s linear,
+    1s;
+    -ms-transition: all 0.2s linear,
+    1s;
+    transition: all 0.2s linear,
+    1s;
+}
+
+.items .item:hover .imageOverLay {
+    opacity: 1;
+}

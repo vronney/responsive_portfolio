@@ -64,5 +64,16 @@ $(document).ready(function() {
         }
 
     });
+
+    $("[data-fancybox]").fancybox();
+
+    $(".items").isotope({
+        filter: "*",
+        animationOptions: {
+            duration: 1500,
+            easing: "linear",
+            queue: false
+        }
+    })
    
 });
