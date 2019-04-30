@@ -325,3 +325,13 @@ body {
 .items {
     padding: 0px;
 }
+
+.copyrightSection {
+    background-color: #e74c3c;
+    color: #ffffff;
+    padding: 30px 5px;
+}
+
+.copyrightSection p {
+    margin: 0;
+}
