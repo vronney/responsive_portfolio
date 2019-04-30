@@ -67,10 +67,19 @@ body {
 .navbar {
     color: #fff;
     background-color: #e74c3c;
+    z-index: 100;
+}
+
+.navbar li {
+    padding: 0 10px;
 }
 
 ul.navbar-nav.mr-auto {
     text-align: -webkit-center;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: #e74c3c !important;
 }
 
 .skillsSection,
