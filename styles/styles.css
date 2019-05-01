@@ -345,6 +345,10 @@ ul.navbar-nav.mr-auto {
     padding: 30px 5px;
 }
 
+h4 {
+    text-align: center;
+}
+
 .copyrightSection p {
     margin: 0;
 }
