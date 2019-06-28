@@ -15,6 +15,9 @@ $(window).on("load", function() {
 });
 
 $(document).ready(function() {
+    $('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+    });
     $('#slides').superslides({
         animation: 'fade',
         play: 5000,
@@ -110,8 +113,4 @@ $(document).ready(function() {
         $("html, body").animate({scrollTop: targetPosition - 50}, "slow");
     });
     
-    $('.navbar-nav>li>a').on('click', function(){
-    $('.navbar-collapse').collapse('hide');
-});
-
 });
