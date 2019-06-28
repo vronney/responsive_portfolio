@@ -15,9 +15,6 @@ $(window).on("load", function() {
 });
 
 $(document).ready(function() {
-    $('.navbar-nav>li>a').on('click', function(){
-    $('.navbar-collapse').collapse('hide');
-    });
     $('#slides').superslides({
         animation: 'fade',
         play: 5000,
