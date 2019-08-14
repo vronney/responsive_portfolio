@@ -101,13 +101,24 @@ $(document).ready(function() {
         return false;
     });
    
+    // Depending on the size of the view screen the scroll to will vary
     $(".navbar li a").click(function(e) {
-        e.preventDefault();
+        if  ($(window).width() > 768) {
 
-        var targetElement = $(this).attr("href");
-        var targetPosition = $(targetElement).offset().top;
+            e.preventDefault();
 
-        $("html, body").animate({scrollTop: targetPosition - 50}, "slow");
+            var targetElement = $(this).attr("href");
+            var targetPosition = $(targetElement).offset().top;
+
+            $("html, body").animate({scrollTop: targetPosition - 50}, "slow");
+        
+        } else {
+            e.preventDefault();
+
+            var targetElement = $(this).attr("href");
+            var targetPosition = $(targetElement).offset().top;
+            $("html, body").animate({scrollTop: targetPosition - 250}, "slow");
+        }
     });
     
 });
